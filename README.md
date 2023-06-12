@@ -6,6 +6,7 @@ Hi there 👋, my name is Yurim 💻✨✋🏻❤️💜<br>
 💬 Ask me about ...<br>
 📫 How to reach me: ...<br>
 😍 Pronouns: ...<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-e23f26?style=for-the-badge&logo=html5&logoColor=white">
