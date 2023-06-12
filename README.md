@@ -1,12 +1,11 @@
-Hi there 👋, my name is Yurim 💻✨✋🏻💙💜<br>
+Hi there 👋, my name is Yurim 💻✨✋🏻❤️💜<br>
 🔭 I’m currently working on ...<br>
 🌱 I’m currently learning ...<br>
 👯 I’m looking to collaborate on ...<br>
 🤔 🤔 I’m looking for help with ...<br>
 💬 Ask me about ...<br>
 📫 How to reach me: ...<br>
-😄 Pronouns: ...<br>
-⚡ Fun fact: ...<br>
+😍 Pronouns: ...<br>
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-e23f26?style=for-the-badge&logo=html5&logoColor=white">
