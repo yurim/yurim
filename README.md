@@ -1,4 +1,4 @@
-<img style="max-width: 100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4D47B&height=200&section=header&text=Yurimgithub&fontSize=90&fontColor=ffffff"/>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&color=F4D47B&height=200&section=header&text=Yurimgithub&fontSize=90&fontColor=ffffff"/>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
